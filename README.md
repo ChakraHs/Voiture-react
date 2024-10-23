@@ -16,7 +16,7 @@ This project consists of two parts: a **React** front-end and a **Spring Boot** 
 
    Clone the repository from GitHub and move into the project directory:
   - git clone https://github.com/ChakraHs/voiture-react.git
-  - cd voiture-app-frontend
+  - cd voiture-react
 
 2. **Build Docker Image**
 
